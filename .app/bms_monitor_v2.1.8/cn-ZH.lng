@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <LoginForm>用户登录</LoginForm>
+  <User>账号</User>
+  <Pwd>密码</Pwd>
+  <Login>登录</Login>
+  <ColumnName>姓名</ColumnName>
+  <ColumnAddress>地址</ColumnAddress>
+  <MenuLanguage>语言</MenuLanguage>
+  <MenuView>视图</MenuView>
+  <TaskView>任务视图</TaskView>
+  <ToolOpen>打开</ToolOpen>
+  <ToolNew>新建</ToolNew>
+  <ToolSave>保存</ToolSave>
+  <ToolDelete>删除</ToolDelete>
+  <Ready>准备就绪...</Ready>
+  <Setting>设置</Setting>
+  <ListViewFileName>文件名</ListViewFileName>
+  <ListViewAttribute>属性</ListViewAttribute>
+  <PopupMenu>右键弹出菜单</PopupMenu>
+  <MenuExit>退出</MenuExit>
+</resources>

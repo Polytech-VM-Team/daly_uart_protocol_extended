@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <LoginForm>User Login</LoginForm>
+  <User>Account</User>
+  <Pwd>Password</Pwd>
+  <Login>Login</Login>
+  <ColumnName>Name</ColumnName>
+  <ColumnAddress>Address</ColumnAddress>
+  <MenuLanguage>Language</MenuLanguage>
+  <MenuView>View</MenuView>
+  <TaskView>Task View</TaskView>
+  <ToolOpen>Open</ToolOpen>
+  <ToolNew>New</ToolNew>
+  <ToolSave>Save</ToolSave>
+  <ToolDelete>Delete</ToolDelete>
+  <Ready>Ready...</Ready>
+  <Setting>Setting</Setting>
+  <ListViewFileName>FileName</ListViewFileName>
+  <ListViewAttribute>Attributes</ListViewAttribute>
+  <PopupMenu>Popup Menu</PopupMenu>
+  <MenuExit>Exit</MenuExit>
+</resources>
